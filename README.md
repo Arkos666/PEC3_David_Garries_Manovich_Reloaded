@@ -59,3 +59,15 @@ La combinación de estas tecnologías permite simular interacciones humanas comp
 ---
 
 # Conclusión: Hibridación y sus implicaciones culturales  
+**Nuevas narrativas para una era digitalizada**  
+
+---
+
+
+El concepto de "metamedio" de Lev Manovich se refleja claramente en ambas plataformas, ya que cada una utiliza las capacidades del ordenador para fusionar varios medios en una sola interfaz. En 86andahalfyears.com, la combinación de medios como texto, audio, imágenes y sus transiciones crea una experiencia rica y multimedia que permite al usuario controlar cómo se explica la historia.
+
+Por otro lado, berghaintrainer.com explora la gamificación y el reconocimiento facial, ofreciendo una experiencia interactiva donde el usuario debe usar expresiones faciales y respuestas verbales para interactuar con el portero virtual. Aquí, el ordenador se utiliza no solo para transmitir información, sino también para evaluar y responder a las entradas del usuario en tiempo real.
+
+Las tecnologías presentadas en estas plataformas alteran significativamente nuestra percepción cultural y social de la interactividad y la participación. En el caso de 86andahalfyears.com, el usuario no es un espectador pasivo sino un participante activo en la narrativa.
+En berghaintrainer.com, la interacción mediante el juego y el reconocimiento facial nos da una dimensión donde la tecnología analiza y reacciona a las expresiones humanas. Esto no sólo convierte la experiencia en algo más personalizado, sino que también plantea preguntas sobre cómo las máquinas interpretan y responden a nuestras señales sociales
+

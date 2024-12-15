@@ -59,4 +59,3 @@ La combinación de estas tecnologías permite simular interacciones humanas comp
 ---
 
 # Conclusión: Hibridación y sus implicaciones culturales  
-**Nuevas narrativas para una era digitalizada**  

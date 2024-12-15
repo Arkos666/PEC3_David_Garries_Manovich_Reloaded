@@ -1,0 +1,2 @@
+# PEC3_David_Garries_Manovich_Reloaded
+PEC3 Manovich_Reloaded UOC

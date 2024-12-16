@@ -83,3 +83,14 @@ En berghaintrainer.com, la interacción mediante el juego y el reconocimiento fa
 
 > " La revolución de los medios informáticos afecta a todas las fases de la comunicación, y abarca la captación, la manipulación, el almacenamiento y la distribución; así como afecta también a los medios de todo tipo, ya sean textos, imágenes fijas y en movimiento, sonido o construcciones espaciales." Lev Manovic, *Qué son los nuevos medios*
 
+
+#Referencias
++ Manovich, L. (2013). El Software Toma el Mando. Barcelona: Editorial UOC.
++ Manovich, L. ¿Qué son los nuevos medios?
++ OpenAI (2024) ChatGPT (versión GPT-4) 
++ 86andahalfyears: https://www.86andahalfyears.com/
++ The FWA: https://thefwa.com/article/insights-8612-years
++ Design Rush: https://www.designrush.com/best-designs/websites/86andahalfyears
++ Berghaintrainer: https://berghaintrainer.com/
++ Wololo Sound: https://wololosound.com/articulos/berghain-simulator-trainer/
+

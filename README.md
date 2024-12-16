@@ -2,7 +2,8 @@
 **Introducción al concepto de hibridación según Lev Manovich**  
 
 “Hibridación, evolución y remezcla profunda de medios”, son tres conceptos fundamentales para entender la dinámica actual de la tecnología y la cultura digital, según Lev Manovich. En este ensayo, nos centraremos en la hibridación: la fusión entre medios tradicionales y digitales que da lugar a nuevos productos y prácticas, trascendiendo las capacidades originales de cada componente.  
-Manovich destacó el 'ordenador' como metamedio, cuya evolución podemos observar en aplicaciones impensables hasta hace poco. Por ejemplo, en www.86andahalfyears.com, exploraremos cómo se añaden capas de voz e interactividad a los recuerdos fotográficos de Joseph Markovitch, un hombre de 86 años y medio, permitiendo a los usuarios interactuar con diferentes aspectos de su vida con solo presionar la barra espaciadora o al pestañear en caso de que tengas webcam. Esto nos narrará su historia de manera dinámica y personalizable.  
+Manovich destacó el 'ordenador' como metamedio, cuya evolución podemos observar en aplicaciones impensables hasta hace poco. Por ejemplo, en www.86andahalfyears.com, exploraremos cómo se añaden capas de voz e interactividad a los recuerdos fotográficos de Joseph Markovitch, un hombre de 86 años y medio, permitiendo a los usuarios interactuar con diferentes aspectos de su vida con solo presionar la barra espaciadora o al pestañear en caso de que tengas webcam. Esto nos narrará su historia de manera dinámica y personalizable.
+ 
 
 Por otro lado, analizaremos cómo la gamificación se incorpora en la cultura digital a través de www.berghaintrainer.com, donde un portero virtual desafía a los usuarios a convencerlo para acceder a una fiesta secreta, evaluando tanto sus respuestas como su lenguaje facial. Estos ejemplos no solo ilustran la evolución del metamedio de Manovich, sino también cómo la hibridación y la remezcla de medios profundizan nuestra interacción con el contenido digital y alteran nuestra percepción cultural.  
 
@@ -15,6 +16,9 @@ No podemos olvidarnos de berghaintrainer, el portero virtual, en el que pasamos 
 # El ordenador como metamedio: nuevas formas de interacción  
 **El papel del ordenador en la transformación de los medios**  
 
+> "No hay motivo para privilegiar el ordenador como aparato de exhibición y distribución por encima de su uso como herramienta de producción o como dispositivo de almacenamiento. Todos poseen el mismo potencial para cambiar los lenguajes culturales vigentes." - Lev Manovich, *Qué son los nuevos medios*
+
+
 ---
 
 # Storytelling interactivo: la vida de Joseph Markovitch  
@@ -23,8 +27,14 @@ No podemos olvidarnos de berghaintrainer, el portero virtual, en el que pasamos 
 ### Una experiencia inmersiva y personalizada    
 La hibridación de medios en el documental de Joseph Markovitch enriquece la experiencia de usuario combinando texto, audio e imágenes, pero de forma que crean una interfaz inmersiva para las personas que la visualizan. El hecho de poder escoger tú a través de la barra espaciadora o el pestañeo, crean una experiencia innovadora y provocan que te sientas “dueño” de la experiencia.  
 
-### Narrativa guiada con texto, audio y animaciones  
+> "Entramos en un nuevo periodo regido por la hibridación. Los medios ya simulados empezaron a intercambiar propiedades y técnicas, dando lugar a infinitas nuevas especies dentro del metamedio ordenador." Lev Manovich, *El software toma el mando*
+
+
+### metadato  
 Como hemos dicho, la integración de voz y texto añade una capa narrativa que guía al usuario a través de la vida de Markovitch y gracias a la fluidez de las animaciones permite que la visita interactiva sea de gran calidad y, al funcionar a través de navegadores, provoca que la experiencia inmersiva pueda disfrutarse a través de los diferentes dispositivos.  
+
+> "La hibridación de medios ya no es solo una tendencia, sino una práctica estándar en el diseño, donde diferentes técnicas y tecnologías convergen para crear nuevas formas de expresión." Lev Manovich, *El software toma el mando*
+
 
 ### Impacto emocional y artístico en el usuario  
 El tono de voz, la música, las animaciones, las fotos, crea un vínculo con el usuario que la está visualizando y empatiza con la vida de Markovitch aunque no se le haya conocido anteriormente.  
@@ -69,5 +79,7 @@ El concepto de "metamedio" de Lev Manovich se refleja claramente en ambas plataf
 Por otro lado, berghaintrainer.com explora la gamificación y el reconocimiento facial, ofreciendo una experiencia interactiva donde el usuario debe usar expresiones faciales y respuestas verbales para interactuar con el portero virtual. Aquí, el ordenador se utiliza no solo para transmitir información, sino también para evaluar y responder a las entradas del usuario en tiempo real.
 
 Las tecnologías presentadas en estas plataformas alteran significativamente nuestra percepción cultural y social de la interactividad y la participación. En el caso de 86andahalfyears.com, el usuario no es un espectador pasivo sino un participante activo en la narrativa.
-En berghaintrainer.com, la interacción mediante el juego y el reconocimiento facial nos da una dimensión donde la tecnología analiza y reacciona a las expresiones humanas. Esto no sólo convierte la experiencia en algo más personalizado, sino que también plantea preguntas sobre cómo las máquinas interpretan y responden a nuestras señales sociales
+En berghaintrainer.com, la interacción mediante el juego y el reconocimiento facial nos da una dimensión donde la tecnología analiza y reacciona a las expresiones humanas. Esto no sólo convierte la experiencia en algo más personalizado, sino que también plantea preguntas sobre cómo las máquinas interpretan y responden a nuestras señales sociales.
+
+> " La revolución de los medios informáticos afecta a todas las fases de la comunicación, y abarca la captación, la manipulación, el almacenamiento y la distribución; así como afecta también a los medios de todo tipo, ya sean textos, imágenes fijas y en movimiento, sonido o construcciones espaciales." Lev Manovic, *Qué son los nuevos medios*
 

@@ -3,13 +3,23 @@
 
 “Hibridación, evolución y remezcla profunda de medios”, son tres conceptos fundamentales para entender la dinámica actual de la tecnología y la cultura digital, según Lev Manovich. En este ensayo, nos centraremos en la hibridación: la fusión entre medios tradicionales y digitales que da lugar a nuevos productos y prácticas, trascendiendo las capacidades originales de cada componente.  
 Manovich destacó el 'ordenador' como metamedio, cuya evolución podemos observar en aplicaciones impensables hasta hace poco. Por ejemplo, en www.86andahalfyears.com, exploraremos cómo se añaden capas de voz e interactividad a los recuerdos fotográficos de Joseph Markovitch, un hombre de 86 años y medio, permitiendo a los usuarios interactuar con diferentes aspectos de su vida con solo presionar la barra espaciadora o al pestañear en caso de que tengas webcam. Esto nos narrará su historia de manera dinámica y personalizable.
+
+![image](https://github.com/user-attachments/assets/ea37caf1-cc61-43ad-94c7-1fe9cf84efdf)
+
+*Imagen de Joseph Markovitch de la web 86andahalfyears*
  
+
 
 Por otro lado, analizaremos cómo la gamificación se incorpora en la cultura digital a través de www.berghaintrainer.com, donde un portero virtual desafía a los usuarios a convencerlo para acceder a una fiesta secreta, evaluando tanto sus respuestas como su lenguaje facial. Estos ejemplos no solo ilustran la evolución del metamedio de Manovich, sino también cómo la hibridación y la remezcla de medios profundizan nuestra interacción con el contenido digital y alteran nuestra percepción cultural.  
 
 Estos son dos ejemplos entre una infinidad de ellos, en los que podemos ver cómo está influyendo en nuestras vidas, tanto la digitalización como la interactividad. En ambos casos, nos muestran claramente, el paso de lo analógico a lo digital, el cambio de un álbum de fotos físicas o incluso digitales a un diseño de libro interactivo y con componentes multimedia, nos muestra claramente el concepto de hibridación. El objetivo de esta hibridación sería mostrarnos la vida de Joseph Markovitch de una forma amena y cómo no, digital.  
 
 No podemos olvidarnos de berghaintrainer, el portero virtual, en el que pasamos del mundo real al mundo digital viendo cómo la gamificación nos ayuda a encontrarnos un control de acceso a una fiesta en el mundo digital pero actuando como lo haríamos en la realidad (con la diferencia que tendremos infinidad de intentos). El objetivo de esta hibridación sería la gamificación de cómo podríamos entrar en una fiesta de forma virtual intentando convencer al vigilante de control acceso contestando a sus preguntas.  
+
+![image](https://github.com/user-attachments/assets/d67ba532-29a3-4f08-a106-36acdf002bbd)
+
+*Imagen del portero de Berghaintrainer*
+
 
 ---
 
@@ -84,10 +94,10 @@ En berghaintrainer.com, la interacción mediante el juego y el reconocimiento fa
 > " La revolución de los medios informáticos afecta a todas las fases de la comunicación, y abarca la captación, la manipulación, el almacenamiento y la distribución; así como afecta también a los medios de todo tipo, ya sean textos, imágenes fijas y en movimiento, sonido o construcciones espaciales." Lev Manovic, *Qué son los nuevos medios*
 
 
-#Referencias
+# Referencias
 + Manovich, L. (2013). El Software Toma el Mando. Barcelona: Editorial UOC.
 + Manovich, L. ¿Qué son los nuevos medios?
-+ OpenAI (2024) ChatGPT (versión GPT-4) 
++ OpenAI (2024) ChatGPT (versión GPT-4): https://chatgpt.com/
 + 86andahalfyears: https://www.86andahalfyears.com/
 + The FWA: https://thefwa.com/article/insights-8612-years
 + Design Rush: https://www.designrush.com/best-designs/websites/86andahalfyears

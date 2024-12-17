@@ -40,7 +40,6 @@ La hibridación de medios en el documental de Joseph Markovitch enriquece la exp
 > "Entramos en un nuevo periodo regido por la hibridación. Los medios ya simulados empezaron a intercambiar propiedades y técnicas, dando lugar a infinitas nuevas especies dentro del metamedio ordenador." Lev Manovich, *El software toma el mando*
 
 
-### metadato  
 Como hemos dicho, la integración de voz y texto añade una capa narrativa que guía al usuario a través de la vida de Markovitch y gracias a la fluidez de las animaciones permite que la visita interactiva sea de gran calidad y, al funcionar a través de navegadores, provoca que la experiencia inmersiva pueda disfrutarse a través de los diferentes dispositivos.  
 
 > "La hibridación de medios ya no es solo una tendencia, sino una práctica estándar en el diseño, donde diferentes técnicas y tecnologías convergen para crear nuevas formas de expresión." Lev Manovich, *El software toma el mando*
